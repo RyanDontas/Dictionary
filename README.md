@@ -30,4 +30,4 @@ I think that I may fall to pieces.
 I feel my dizzy state increase 
 about the mice, the grice and geese.
 
-Compile all files and run.
+Compile all files and run it.
